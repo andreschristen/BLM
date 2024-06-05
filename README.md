@@ -8,6 +8,9 @@ Is it interesting enough to turn it into a module in a .whl distribution? All co
 
 Thanks,
 Andres Christen
+
 jac at cimat.mx
+
 Centro de Investigación en Matemáticas
+
 CIMAT-CONAHCYT, Guanajuato, Mexico
